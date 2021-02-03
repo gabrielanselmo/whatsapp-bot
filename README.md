@@ -20,7 +20,7 @@
 <details>
  <summary>🥟 Ajude-me!</summary>
  
- [Trakteer](http://embreve.com)
+ [Em Breve](http://embreve.com)
  
 </details>
 
