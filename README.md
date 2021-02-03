@@ -70,11 +70,8 @@ Depois que rodar, escaneie o codigo qr do console no seu aplicativo whatsapp
 
 ---
 
-## Features
+## Recursos
 
-| 18+ |Yes|
-| ------------- | ------------- |
-| Nekopoi |✅|
 
 | Creator |Yes|
 | ------------- | ------------- |
@@ -87,14 +84,6 @@ Depois que rodar, escaneie o codigo qr do console no seu aplicativo whatsapp
 | Quotes maker result pict|✅|
 | Nulis Bot|✅|
 
-| Islam |Yes|
-| ------------- | ------------- |
-| List Surah|✅|
-| Info Surah|✅|
-| Surah|✅|
-| Tafsir Alquran|✅|
-| Alquran Audio/Voice|✅|
-| Jadwal solat|✅|
 
 | Downloader |Yes|
 | ------------- | ------------- |
@@ -106,11 +95,6 @@ Depois que rodar, escaneie o codigo qr do console no seu aplicativo whatsapp
 | ------------- | ------------- |
 | Simi-simi BOT|✅|
 | Anti kata kasar|✅|
-
-| Primbon |Yes|
-| ------------- | ------------- |
-| Arti nama |✅|
-| Cek Jodoh |✅|
 
 | Searchs |Yes|
 | ------------- | ------------- |
@@ -126,31 +110,12 @@ Depois que rodar, escaneie o codigo qr do console no seu aplicativo whatsapp
 | Play music|✅|
 | whats anime?|✅|
 
-| Random text |Yes|
-| ------------- | ------------- |
-| Pantun pakboy|✅|
-| Fakta Menarik|✅|
-| Kata Bijak|✅|
-| Quotes|✅|
-| Cerita Sex|✅|
-| Cerita Pendek|✅|
-| Puisi|✅|
-
 | Random image |Yes|
 | ------------- | ------------- |
 | Anime |✅|
 | Kpop |✅|
 | Memes |✅|
 
-
-| Others |Yes|
-| ------------- | ------------- |
-| Teks to Sound/Voice|✅|
-| Translate teks|✅|
-| Get covid info from map|✅|
-| Covid-19 Indo|✅|
-| Shortlink|✅|
-| Bap4k F0nt|✅|
 
 | Groups |Yes|
 | ------------- | ------------- |
@@ -167,7 +132,6 @@ Depois que rodar, escaneie o codigo qr do console no seu aplicativo whatsapp
 | Tagall/mentions all|✅|
 | Welcome ON/OFF|✅|
 
-
 | Owner bot |Yes|
 | ------------- | ------------- |
 | Broadcast|✅|
@@ -176,10 +140,10 @@ Depois que rodar, escaneie o codigo qr do console no seu aplicativo whatsapp
 | Banned user|✅|
 
 
-## To-Do
- - Add Media Downloader
- - Add More Feature
- - More refactoring
+## Em criação
+ - Adicionar baixador de mídia
+ - Adicionar mais recurso
+ - Mais refatoração
  
 ---
 
