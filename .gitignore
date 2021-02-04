@@ -29,3 +29,4 @@ utils/getScreenshot.js
 lib/instaStory.js
 lib/jiwa.js
 settings/api.json
+media/*
